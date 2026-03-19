@@ -23,7 +23,7 @@ NexaRoute is a modern, high-performance order delivery and logistics tracking da
 
 ## 💻 How to Run Locally
 
-Follow these steps to get the NexaRoute dashboard running on any local machine.
+Follow these steps to get the API running on any local machine.
 
 ### Prerequisites
 Make sure you have [Node.js](https://nodejs.org/) installed on your computer.
@@ -32,7 +32,7 @@ Make sure you have [Node.js](https://nodejs.org/) installed on your computer.
 
 **1. Clone the repository**
 ```bash
-git clone https://github.com/harshdeepsinxh/NexaRoute.git
+git clone https://github.com/harshdeepsinxh/LogisticsandSupplyChain-API 
 cd NexaRoute
 ```
 
